@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-JCASLMA</Machine>
+    <WindowsUser>Syed Daniyal Ali</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>51e1e139-8727-469a-a6dd-8f8411e6f732</PackageIdentityName>
+    <IntermediateOutputPath>D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\MedicineGuide.exe">
+      <PackagePath>MedicineGuide.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\bg.jpg">
+      <PackagePath>Assets\bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\Achondroplasia_1_150_C.jpg">
+      <PackagePath>Images\ABCD\Achondroplasia_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\Achondroplasia_1_600_C.jpg">
+      <PackagePath>Images\ABCD\Achondroplasia_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\Bipolardisorder_3_150_C.jpg">
+      <PackagePath>Images\ABCD\Bipolardisorder_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\Bipolardisorder_3_600_C.jpg">
+      <PackagePath>Images\ABCD\Bipolardisorder_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\braincancer_2_150_C.jpg">
+      <PackagePath>Images\ABCD\braincancer_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\braincancer_2_600_C.jpg">
+      <PackagePath>Images\ABCD\braincancer_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\Chagas_5_150_C.jpg">
+      <PackagePath>Images\ABCD\Chagas_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\Chagas_5_600_C.jpg">
+      <PackagePath>Images\ABCD\Chagas_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\diabetes_6_150_C.jpg">
+      <PackagePath>Images\ABCD\diabetes_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\diabetes_6_310_C.jpg">
+      <PackagePath>Images\ABCD\diabetes_6_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\diabetes_6_600_C.jpg">
+      <PackagePath>Images\ABCD\diabetes_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Encephalitis _1_150_C.jpg">
+      <PackagePath>Images\EFGH\Encephalitis _1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Encephalitis_1_600_C.jpg">
+      <PackagePath>Images\EFGH\Encephalitis_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Factitious hyperthyroidism_2_150_C.jpg">
+      <PackagePath>Images\EFGH\Factitious hyperthyroidism_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Factitious hyperthyroidism_2_310_C.jpg">
+      <PackagePath>Images\EFGH\Factitious hyperthyroidism_2_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Factitious hyperthyroidism_2_600_C.jpg">
+      <PackagePath>Images\EFGH\Factitious hyperthyroidism_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Fungalarthritis_4_150_C.jpg">
+      <PackagePath>Images\EFGH\Fungalarthritis_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Fungalarthritis_4_600_C.jpg">
+      <PackagePath>Images\EFGH\Fungalarthritis_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Galactosemia_3_150_C.jpg">
+      <PackagePath>Images\EFGH\Galactosemia_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Galactosemia_3_600_C.jpg">
+      <PackagePath>Images\EFGH\Galactosemia_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Gangrene_5_150_C.JPG">
+      <PackagePath>Images\EFGH\Gangrene_5_150_C.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Gangrene_5_600_C.JPG">
+      <PackagePath>Images\EFGH\Gangrene_5_600_C.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Hemorrhoids_6_150_C.jpg">
+      <PackagePath>Images\EFGH\Hemorrhoids_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\Hemorrhoids_6_600_C.jpg">
+      <PackagePath>Images\EFGH\Hemorrhoids_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Ichthyosis vulgaris_1_150_C.jpg">
+      <PackagePath>Images\IJKL\Ichthyosis vulgaris_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Ichthyosis vulgaris_1_600_C.jpg">
+      <PackagePath>Images\IJKL\Ichthyosis vulgaris_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Jaundice _4_310_C.jpg">
+      <PackagePath>Images\IJKL\Jaundice _4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Jaundice_4_150_C.jpg">
+      <PackagePath>Images\IJKL\Jaundice_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Jaundice_4_600_C.jpg">
+      <PackagePath>Images\IJKL\Jaundice_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\kawasakiDisease_2_150_C.jpg">
+      <PackagePath>Images\IJKL\kawasakiDisease_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\kawasakiDisease_2_600_C.jpg">
+      <PackagePath>Images\IJKL\kawasakiDisease_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Kidneycancer_5_600_C.jpg">
+      <PackagePath>Images\IJKL\Kidneycancer_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Kidneycancer_5_150_C.jpg">
+      <PackagePath>Images\IJKL\Kidneycancer_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\LacrimalglandTumor_3_150_C.jpg">
+      <PackagePath>Images\IJKL\LacrimalglandTumor_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\LacrimalglandTumor_3_600_C.jpg">
+      <PackagePath>Images\IJKL\LacrimalglandTumor_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Lungcancer_6_150_C.jpg">
+      <PackagePath>Images\IJKL\Lungcancer_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\Lungcancer_6_600_C.jpg">
+      <PackagePath>Images\IJKL\Lungcancer_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Macroamylasemia_1_150_C.jpg">
+      <PackagePath>Images\MNOP\Macroamylasemia_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Macroamylasemia_1_600_C.jpg">
+      <PackagePath>Images\MNOP\Macroamylasemia_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\narcolepsy_2_150_C.jpg">
+      <PackagePath>Images\MNOP\narcolepsy_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\narcolepsy_2_600_C.jpg">
+      <PackagePath>Images\MNOP\narcolepsy_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Omphalocele_3_150_C.jpg">
+      <PackagePath>Images\MNOP\Omphalocele_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Omphalocele_3_600_C.jpg">
+      <PackagePath>Images\MNOP\Omphalocele_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Osteoporosis_5_150_C.jpg">
+      <PackagePath>Images\MNOP\Osteoporosis_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Osteoporosis_5_600_C.jpg">
+      <PackagePath>Images\MNOP\Osteoporosis_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\ParathyroidAdenoma_6_150_C.jpg">
+      <PackagePath>Images\MNOP\ParathyroidAdenoma_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\ParathyroidAdenoma_6_600_C.jpg">
+      <PackagePath>Images\MNOP\ParathyroidAdenoma_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Q fever_1_150_C.jpg">
+      <PackagePath>Images\QRSTU\Q fever_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Q fever_1_600_C.jpg">
+      <PackagePath>Images\QRSTU\Q fever_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Ramsay Hunt syndrome_4_150_C.jpg">
+      <PackagePath>Images\QRSTU\Ramsay Hunt syndrome_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Ramsay Hunt syndrome_4_600_C.jpg">
+      <PackagePath>Images\QRSTU\Ramsay Hunt syndrome_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Scarletfever_2_150_C.jpg">
+      <PackagePath>Images\QRSTU\Scarletfever_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Scarletfever_2_600_C.jpg">
+      <PackagePath>Images\QRSTU\Scarletfever_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\skincancer_5_150_C.jpg">
+      <PackagePath>Images\QRSTU\skincancer_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\skincancer_5_600_C.jpg">
+      <PackagePath>Images\QRSTU\skincancer_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Tapeworm_3_150_C.jpg">
+      <PackagePath>Images\QRSTU\Tapeworm_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Tapeworm_3_600_C.jpg">
+      <PackagePath>Images\QRSTU\Tapeworm_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Urticariapigmentosa _6_150_C.jpg">
+      <PackagePath>Images\QRSTU\Urticariapigmentosa _6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\Urticariapigmentosa_6_600_C.jpg">
+      <PackagePath>Images\QRSTU\Urticariapigmentosa_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Vaginismus_1_150_C.jpg">
+      <PackagePath>Images\VWXYZ\Vaginismus_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Vaginismus_1_600_C.jpg">
+      <PackagePath>Images\VWXYZ\Vaginismus_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Vasectomy_4_150_C.jpg">
+      <PackagePath>Images\VWXYZ\Vasectomy_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Vasectomy_4_600_C.jpg">
+      <PackagePath>Images\VWXYZ\Vasectomy_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Whipworm infection_2_150_C.jpg">
+      <PackagePath>Images\VWXYZ\Whipworm infection_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Whipworm infection_2_600_ C.jpg">
+      <PackagePath>Images\VWXYZ\Whipworm infection_2_600_ C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Xanthoma_5_150_C.jpg">
+      <PackagePath>Images\VWXYZ\Xanthoma_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Xanthoma_5_600_C.jpg">
+      <PackagePath>Images\VWXYZ\Xanthoma_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Yaws_3_150_C.jpg">
+      <PackagePath>Images\VWXYZ\Yaws_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Yaws_3_600_C.jpg">
+      <PackagePath>Images\VWXYZ\Yaws_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Zollinger-Ellison syndrome_6_150_C.jpg">
+      <PackagePath>Images\VWXYZ\Zollinger-Ellison syndrome_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\Zollinger-Ellison syndrome_6_600_C.jpg">
+      <PackagePath>Images\VWXYZ\Zollinger-Ellison syndrome_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\ABCDGroupDetail.png">
+      <PackagePath>Images\ABCD\ABCDGroupDetail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\DengueFever _4_150_C.png">
+      <PackagePath>Images\ABCD\DengueFever _4_150_C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\ABCD\DengueFever_4_600_C.png">
+      <PackagePath>Images\ABCD\DengueFever_4_600_C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\EFGH\EFGH_group_detail.png">
+      <PackagePath>Images\EFGH\EFGH_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\IJKL\IJKL_group_detail.png">
+      <PackagePath>Images\IJKL\IJKL_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\MNOP_group_detail.png">
+      <PackagePath>Images\MNOP\MNOP_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Nabothiancyst_4_150_C.png">
+      <PackagePath>Images\MNOP\Nabothiancyst_4_150_C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\MNOP\Nabothiancyst_4_600_C.png">
+      <PackagePath>Images\MNOP\Nabothiancyst_4_600_C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\QRSTU\QRSTU_group_detail.png">
+      <PackagePath>Images\QRSTU\QRSTU_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Images\VWXYZ\VWXYZ_group_detail.png">
+      <PackagePath>Images\VWXYZ\VWXYZ_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\Data\Diseases.txt">
+      <PackagePath>Data\Diseases.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\MedicineGuide.xr.xml">
+      <PackagePath>MedicineGuide.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

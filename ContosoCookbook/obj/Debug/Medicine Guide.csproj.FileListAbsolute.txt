@@ -1,0 +1,220 @@
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\bin\Debug\resources.pri
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\bin\Debug\AppxManifest.xml
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\bin\Debug\Medicine Guide.build.appxrecipe
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\App.g.i.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\App.xaml
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xaml
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xaml
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xaml
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xaml
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\priconfig.xml
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\layout.resfiles
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\resources.resfiles
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\pri.resfiles
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\qualifiers.txt
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\bin\Debug\MedicineGuide.exe
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\bin\Debug\MedicineGuide.pdb
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\MedicineGuide.exe
+C:\Users\std\Desktop\01 - ListviewDatabindingCS\Source\ContosoCookbook\obj\Debug\MedicineGuide.pdb
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\App.xbf
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\Common\StandardStyles.xbf
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\GroupedItemsPage.xbf
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\GroupDetailPage.xbf
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\ItemDetailPage.xbf
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\MedicineGuide.exe
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\MedicineGuide.pdb
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\resources.pri
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\AppxManifest.xml
+G:\New folder\project\Source\ContosoCookbook\bin\Debug\Medicine Guide.build.appxrecipe
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\App.g.i.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\App.g.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.i.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.i.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.i.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.i.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\XamlTypeInfo.g.cs
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\App.xaml
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xaml
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xaml
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xaml
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xaml
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\App.xbf
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xbf
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xbf
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xbf
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xbf
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\XamlSaveStateFile.xml
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\MedicineGuide.exe
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\MedicineGuide.pdb
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\priconfig.xml
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\layout.resfiles
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\resources.resfiles
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\pri.resfiles
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\qualifiers.txt
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\New folder\project\Source\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\App.xbf
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\Common\StandardStyles.xbf
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\GroupedItemsPage.xbf
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\GroupDetailPage.xbf
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\ItemDetailPage.xbf
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\MedicineGuide.exe
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\MedicineGuide.pdb
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\resources.pri
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\AppxManifest.xml
+F:\New folder\project\Source\ContosoCookbook\bin\Debug\Medicine Guide.build.appxrecipe
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\App.g.i.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\App.g.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.i.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.i.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.i.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.i.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\XamlTypeInfo.g.cs
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\App.xaml
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xaml
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xaml
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xaml
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xaml
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\App.xbf
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xbf
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xbf
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xbf
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xbf
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\XamlSaveStateFile.xml
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\MedicineGuide.exe
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\MedicineGuide.pdb
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\priconfig.xml
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\layout.resfiles
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\resources.resfiles
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\pri.resfiles
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\qualifiers.txt
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\New folder\project\Source\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\App.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\Common\StandardStyles.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\GroupedItemsPage.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\GroupDetailPage.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\ItemDetailPage.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\MedicineGuide.exe
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\MedicineGuide.pdb
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\resources.pri
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\AppxManifest.xml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\bin\Debug\Medicine Guide.build.appxrecipe
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\App.g.i.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\App.xaml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xaml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xaml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xaml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xaml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\App.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xbf
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\MedicineGuide.exe
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\MedicineGuide.pdb
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\priconfig.xml
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\layout.resfiles
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\resources.resfiles
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\pri.resfiles
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\qualifiers.txt
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mohammad\Desktop\Source\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\App.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\Common\StandardStyles.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\GroupedItemsPage.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\GroupDetailPage.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\ItemDetailPage.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\MedicineGuide.xr.xml
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\MedicineGuide.exe
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\MedicineGuide.pdb
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\resources.pri
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\AppxManifest.xml
+D:\WorkSpace\Medicine\ContosoCookbook\bin\Debug\Medicine Guide.build.appxrecipe
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\App.g.i.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\App.g.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\Common\StandardStyles.g.i.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\Common\StandardStyles.g.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupedItemsPage.g.i.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupedItemsPage.g.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupDetailPage.g.i.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\ItemDetailPage.g.i.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\ItemDetailPage.g.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\XamlTypeInfo.g.cs
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\App.xaml
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\Common\StandardStyles.xaml
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupedItemsPage.xaml
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupDetailPage.xaml
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\ItemDetailPage.xaml
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\App.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\Common\StandardStyles.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupedItemsPage.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\GroupDetailPage.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\ItemDetailPage.xbf
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\XamlSaveStateFile.xml
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\MedicineGuide.exe
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\MedicineGuide.pdb
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\priconfig.xml
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\layout.resfiles
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\resources.resfiles
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\pri.resfiles
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\qualifiers.txt
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\WorkSpace\Medicine\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
